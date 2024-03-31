@@ -1,0 +1,9 @@
+PERSONA 5 CALENDAR
+Modo de uso:
+- Al presionar "Enter" podra activar la ventana y desplazarla a donde mas le guste
+- Para poder cambiar el tamaño abra el archivo "EditarTamaño-txt" que se encuentra
+en la carpeta Properties, dentro podra ingresar las siguientes opciones:
+"pequeño", "mediano", "grande"
+
+**Este mini proyecto todavia esta abierto a varios cambios por agregar y mejorar**
+(Baje el volumen de su dispositivo antes de abrir xd)
